@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-90 -->
 - #90: #40 — Preimage Ambiguity and Collision Risk in compute_config_root
+
+<!-- handsoff-issue-92 -->
+- #92: #42 — clear_score Fails to Remove Leaf from Verkle Running Accumulator
