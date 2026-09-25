@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-89 -->
 - #89: #39 — compute_auth_root Hashes Signer Set Count Instead of Signer Addresses
+
+<!-- handsoff-issue-90 -->
+- #90: #40 — Preimage Ambiguity and Collision Risk in compute_config_root
