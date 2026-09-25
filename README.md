@@ -827,3 +827,8 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 - Stellar Development Foundation (2024) *Soroban Smart Contract Documentation*. Available at: https://soroban.stellar.org/docs
 - [`docs/host-version-support-policy.md`](docs/host-version-support-policy.md) — supported Rust/Soroban build boundary and CI coverage
 - [`docs/network-matrix.md`](docs/network-matrix.md) — supported deployment profiles and failure modes
+
+## Handsoff notes
+
+<!-- handsoff-issue-89 -->
+- #89: #39 — compute_auth_root Hashes Signer Set Count Instead of Signer Addresses
